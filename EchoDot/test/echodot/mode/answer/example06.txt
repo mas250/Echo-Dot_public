@@ -1,0 +1,21 @@
+{"queryresult" : {
+	"success" : false, 
+	"error" : true, 
+	"numpods" : 0, 
+	"datatypes" : "", 
+	"timedout" : "", 
+	"timedoutpods" : "", 
+	"timing" : 0.024, 
+	"parsetiming" : 0.0, 
+	"parsetimedout" : false, 
+	"recalculate" : "", 
+	"id" : "", 
+	"host" : "http:\/\/www4c.wolframalpha.com", 
+	"server" : "50", 
+	"related" : "", 
+	"version" : "2.6", 
+	"error" : {
+		"code" : "1000", 
+		"msg" : "input parameter not present in query"
+	}
+}}

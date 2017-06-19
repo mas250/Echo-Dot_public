@@ -1,0 +1,62 @@
+{"queryresult" : {
+	"success" : true,
+	"error" : false,
+	"numpods" : 2,
+	"datatypes" : "",
+	"timedout" : "",
+	"timedoutpods" : "",
+	"timing" : 0.76,
+	"parsetiming" : 0.358,
+	"parsetimedout" : false,
+	"recalculate" : "",
+	"id" : "MSPa172520ibc2b5i83c9fi000001id5cd628fh773d3",
+	"host" : "http:\/\/www5a.wolframalpha.com",
+	"server" : "64",
+	"related" : "http:\/\/www5a.wolframalpha.com\/api\/v2\/relatedQueries.jsp?id=MSPa172620ibc2b5i83c9fi000001afb1fd5e0562bbi2261008788464596424",
+	"version" : "2.6",
+	"pods" : [
+		{
+			"title" : "Input interpretation",
+			"scanner" : "Identity",
+			"id" : "Input",
+			"position" : 100,
+			"error" : false,
+			"numsubpods" : 1,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP172720ibc2b5i83c9fi000001102a3702ggd8345?MSPStoreType=image\/gif&s=64",
+						"alt" : "Isaac Asimov's Three Laws of Robotics",
+						"title" : "Isaac Asimov's Three Laws of Robotics",
+						"width" : 253,
+						"height" : 18
+					},
+					"plaintext" : "Isaac Asimov's Three Laws of Robotics"
+				}
+			]
+		},
+		{
+			"title" : "Result",
+			"scanner" : "Data",
+			"id" : "Result",
+			"position" : 200,
+			"error" : false,
+			"numsubpods" : 1,
+			"primary" : true,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP172820ibc2b5i83c9fi000004ed8acf217373973?MSPStoreType=image\/gif&s=64",
+						"alt" : "1) A robot may not injure a human being or, through inaction, allow a human being to come to harm.\n2) A robot must obey any orders given to it by human beings, except where such orders would conflict with the First Law.\n3) A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.\n(according to Isaac Asimov, introduced in his 1942 short story \"Runaround\")",
+						"title" : "1) A robot may not injure a human being or, through inaction, allow a human being to come to harm.\n2) A robot must obey any orders given to it by human beings, except where such orders would conflict with the First Law.\n3) A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.\n(according to Isaac Asimov, introduced in his 1942 short story \"Runaround\")",
+						"width" : 542,
+						"height" : 171
+					},
+					"plaintext" : "1) A robot may not injure a human being or, through inaction, allow a human being to come to harm.\n2) A robot must obey any orders given to it by human beings, except where such orders would conflict with the First Law.\n3) A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.\n(according to Isaac Asimov, introduced in his 1942 short story \"Runaround\")"
+				}
+			]
+		}
+	]
+}}

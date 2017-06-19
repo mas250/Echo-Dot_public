@@ -1,0 +1,247 @@
+{"queryresult" : {
+	"success" : true,
+	"error" : false,
+	"numpods" : 6,
+	"datatypes" : "",
+	"timedout" : "",
+	"timedoutpods" : "",
+	"timing" : 3.597,
+	"parsetiming" : 1.198,
+	"parsetimedout" : false,
+	"recalculate" : "",
+	"id" : "MSPa4451ec7g2bgh82642680000331b16cd8ae07583",
+	"host" : "http:\/\/www5a.wolframalpha.com",
+	"server" : "28",
+	"related" : "http:\/\/www5a.wolframalpha.com\/api\/v2\/relatedQueries.jsp?id=MSPa4461ec7g2bgh826426800005ee18h50d39hc7ba4299120716634486296",
+	"version" : "2.6",
+	"pods" : [
+		{
+			"title" : "Input interpretation",
+			"scanner" : "Identity",
+			"id" : "Input",
+			"position" : 100,
+			"error" : false,
+			"numsubpods" : 1,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP4471ec7g2bgh826426800002a9b0903i0790076?MSPStoreType=image\/gif&s=28",
+						"alt" : "distance | from | London, Greater London\nto | New York City, New York, United States",
+						"title" : "distance | from | London, Greater London\nto | New York City, New York, United States",
+						"width" : 437,
+						"height" : 61
+					},
+					"plaintext" : "distance | from | London, Greater London\nto | New York City, New York, United States"
+				}
+			]
+		},
+		{
+			"title" : "Result",
+			"scanner" : "Data",
+			"id" : "Result",
+			"position" : 200,
+			"error" : false,
+			"numsubpods" : 1,
+			"primary" : true,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP4481ec7g2bgh82642680000502b40i10063gbgg?MSPStoreType=image\/gif&s=28",
+						"alt" : "3470 miles",
+						"title" : "3470 miles",
+						"width" : 67,
+						"height" : 18
+					},
+					"plaintext" : "3470 miles"
+				}
+			]
+		},
+		{
+			"title" : "Unit conversions",
+			"scanner" : "Traveling",
+			"id" : "UnitConversion",
+			"position" : 300,
+			"error" : false,
+			"numsubpods" : 3,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP4491ec7g2bgh826426800004ie3086dhh6291eh?MSPStoreType=image\/gif&s=28",
+						"alt" : "5585 km  (kilometers)",
+						"title" : "5585 km  (kilometers)",
+						"width" : 133,
+						"height" : 18
+					},
+					"plaintext" : "5585 km  (kilometers)"
+				},
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP4501ec7g2bgh826426800003i5ed5gh2h6a0087?MSPStoreType=image\/gif&s=28",
+						"alt" : "5.585×10^6 meters",
+						"title" : "5.585×10^6 meters",
+						"width" : 119,
+						"height" : 18
+					},
+					"plaintext" : "5.585×10^6 meters"
+				},
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP4511ec7g2bgh826426800000g3g0eg4hc24e1g2?MSPStoreType=image\/gif&s=28",
+						"alt" : "3016 nmi  (nautical miles)",
+						"title" : "3016 nmi  (nautical miles)",
+						"width" : 159,
+						"height" : 18
+					},
+					"plaintext" : "3016 nmi  (nautical miles)"
+				}
+			]
+		},
+		{
+			"title" : "Direct travel times",
+			"scanner" : "Traveling",
+			"id" : "TravelTimes",
+			"position" : 400,
+			"error" : false,
+			"numsubpods" : 1,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP4521ec7g2bgh826426800005e20de1ih8h173c1?MSPStoreType=image\/gif&s=28",
+						"alt" : "aircraft  (550 mph) | 6 hours 20 minutes\nsound | 4 hours 35 minutes\nlight in fiber | 26 ms  (milliseconds)\nlight in vacuum | 19 ms  (milliseconds)\n(assuming constant-speed great-circle path)",
+						"title" : "aircraft  (550 mph) | 6 hours 20 minutes\nsound | 4 hours 35 minutes\nlight in fiber | 26 ms  (milliseconds)\nlight in vacuum | 19 ms  (milliseconds)\n(assuming constant-speed great-circle path)",
+						"width" : 288,
+						"height" : 153
+					},
+					"plaintext" : "aircraft  (550 mph) | 6 hours 20 minutes\nsound | 4 hours 35 minutes\nlight in fiber | 26 ms  (milliseconds)\nlight in vacuum | 19 ms  (milliseconds)\n(assuming constant-speed great-circle path)"
+				}
+			],
+			"states" : [
+				{
+					"name" : "More",
+					"input" : "TravelTimes__More"
+				}
+			]
+		},
+		{
+			"title" : "Map",
+			"scanner" : "Traveling",
+			"id" : "Map",
+			"position" : 500,
+			"error" : false,
+			"numsubpods" : 1,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP4531ec7g2bgh826426800006ahica7ia7e507d8?MSPStoreType=image\/gif&s=28",
+						"alt" : "",
+						"title" : "",
+						"width" : 328,
+						"height" : 156
+					},
+					"plaintext" : ""
+				}
+			]
+		},
+		{
+			"title" : "Fraction of Earth circumference",
+			"scanner" : "Traveling",
+			"id" : "FractionOfEarthCircumference",
+			"position" : 600,
+			"error" : false,
+			"numsubpods" : 1,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP4541ec7g2bgh826426800004cfga2ifgh6714fe?MSPStoreType=image\/gif&s=28",
+						"alt" : "0.14 ~~ 1 \/ 7",
+						"title" : "0.14 ~~ 1 \/ 7",
+						"width" : 67,
+						"height" : 18
+					},
+					"plaintext" : "0.14 ~~ 1 \/ 7"
+				}
+			]
+		}
+	],
+	"assumptions" : [
+		{
+			"type" : "Clash",
+			"word" : "New York",
+			"template" : "Assuming \"${word}\" is ${desc1}. Use as ${desc2} instead",
+			"count" : 2,
+			"values" : [
+				{
+					"name" : "City",
+					"desc" : "a city",
+					"input" : "*C.New+York-_*City-"
+				},
+				{
+					"name" : "USState",
+					"desc" : "a US state",
+					"input" : "*C.New+York-_*USState-"
+				}
+			]
+		},
+		{
+			"type" : "SubCategory",
+			"word" : "London",
+			"template" : "Assuming ${desc1}. Use ${desc2} instead",
+			"count" : 7,
+			"values" : [
+				{
+					"name" : "{London, GreaterLondon, UnitedKingdom}",
+					"desc" : "London (United Kingdom)",
+					"input" : "*DPClash.CityE.London-_**London.GreaterLondon.UnitedKingdom--"
+				},
+				{
+					"name" : "{London, Ontario, Canada}",
+					"desc" : "London (Canada)",
+					"input" : "*DPClash.CityE.London-_**London.Ontario.Canada--"
+				},
+				{
+					"name" : "{London, Ohio, UnitedStates}",
+					"desc" : "London (Ohio, USA)",
+					"input" : "*DPClash.CityE.London-_**London.Ohio.UnitedStates--"
+				},
+				{
+					"name" : "{London, Kentucky, UnitedStates}",
+					"desc" : "London (Kentucky, USA)",
+					"input" : "*DPClash.CityE.London-_**London.Kentucky.UnitedStates--"
+				},
+				{
+					"name" : "{London, California, UnitedStates}",
+					"desc" : "London (California, USA)",
+					"input" : "*DPClash.CityE.London-_**London.California.UnitedStates--"
+				},
+				{
+					"name" : "{London, Arkansas, UnitedStates}",
+					"desc" : "London (Arkansas, USA)",
+					"input" : "*DPClash.CityE.London-_**London.Arkansas.UnitedStates--"
+				},
+				{
+					"name" : "{London, Kiritimati, Kiribati}",
+					"desc" : "London (Kiribati)",
+					"input" : "*DPClash.CityE.London-_**London.Kiritimati.Kiribati--"
+				}
+			]
+		}
+	],
+	"sources" : [
+		{
+			"url" : "http:\/\/www.wolframalpha.com\/sources\/CityDataSourceInformationNotes.html",
+			"text" : "City data"
+		},
+		{
+			"url" : "http:\/\/www.wolframalpha.com\/sources\/GeodesyDataSourceInformationNotes.html",
+			"text" : "Geodesy data"
+		}
+	]
+}}

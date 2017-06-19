@@ -1,0 +1,264 @@
+{"queryresult" : {
+	"success" : true,
+	"error" : false,
+	"numpods" : 7,
+	"datatypes" : "Element,MatterPhase,Quantity",
+	"timedout" : "",
+	"timedoutpods" : "",
+	"timing" : 3.501,
+	"parsetiming" : 0.61,
+	"parsetimedout" : false,
+	"recalculate" : "",
+	"id" : "MSPa42241bbbidi5e9a3e0ed00003979h5669b37f664",
+	"host" : "http:\/\/www5a.wolframalpha.com",
+	"server" : "14",
+	"related" : "http:\/\/www5a.wolframalpha.com\/api\/v2\/relatedQueries.jsp?id=MSPa42251bbbidi5e9a3e0ed00003ccdc27c5c6h61h56597947742383779927",
+	"version" : "2.6",
+	"pods" : [
+		{
+			"title" : "Input interpretation",
+			"scanner" : "Identity",
+			"id" : "Input",
+			"position" : 100,
+			"error" : false,
+			"numsubpods" : 1,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP42261bbbidi5e9a3e0ed0000568e676b45ageh8a?MSPStoreType=image\/gif&s=14",
+						"alt" : "silver | melting point",
+						"title" : "silver | melting point",
+						"width" : 153,
+						"height" : 23
+					},
+					"plaintext" : "silver | melting point"
+				}
+			]
+		},
+		{
+			"title" : "Result",
+			"scanner" : "Data",
+			"id" : "Result",
+			"position" : 200,
+			"error" : false,
+			"numsubpods" : 1,
+			"primary" : true,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP42271bbbidi5e9a3e0ed00000d271dce3h999077?MSPStoreType=image\/gif&s=14",
+						"alt" : "961.78 °C  (degrees Celsius)",
+						"title" : "961.78 °C  (degrees Celsius)",
+						"width" : 179,
+						"height" : 18
+					},
+					"plaintext" : "961.78 °C  (degrees Celsius)"
+				}
+			],
+			"states" : [
+				{
+					"name" : "Show non-metric",
+					"input" : "Result__Show non-metric"
+				}
+			]
+		},
+		{
+			"title" : "Unit conversions",
+			"scanner" : "Unit",
+			"id" : "UnitConversion",
+			"position" : 300,
+			"error" : false,
+			"numsubpods" : 5,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP42281bbbidi5e9a3e0ed000023g4i8f2ddbh8299?MSPStoreType=image\/gif&s=14",
+						"alt" : "1234.9 K  (kelvins)",
+						"title" : "1234.9 K  (kelvins)",
+						"width" : 116,
+						"height" : 18
+					},
+					"plaintext" : "1234.9 K  (kelvins)"
+				},
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP42291bbbidi5e9a3e0ed00003178g9ad5g0hec48?MSPStoreType=image\/gif&s=14",
+						"alt" : "1763.2 °F  (degrees Fahrenheit)",
+						"title" : "1763.2 °F  (degrees Fahrenheit)",
+						"width" : 199,
+						"height" : 18
+					},
+					"plaintext" : "1763.2 °F  (degrees Fahrenheit)"
+				},
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP42301bbbidi5e9a3e0ed000060bhb5e1caaie7hd?MSPStoreType=image\/gif&s=14",
+						"alt" : "2222.9 °R  (degrees Rankine)",
+						"title" : "2222.9 °R  (degrees Rankine)",
+						"width" : 185,
+						"height" : 18
+					},
+					"plaintext" : "2222.9 °R  (degrees Rankine)"
+				},
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP42311bbbidi5e9a3e0ed00006522gic46cd611b5?MSPStoreType=image\/gif&s=14",
+						"alt" : "769.42 °Ré  (degrees Réaumur)",
+						"title" : "769.42 °Ré  (degrees Réaumur)",
+						"width" : 199,
+						"height" : 18
+					},
+					"plaintext" : "769.42 °Ré  (degrees Réaumur)"
+				},
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP42321bbbidi5e9a3e0ed000050e46908g20iac2h?MSPStoreType=image\/gif&s=14",
+						"alt" : "512.43 °Rø  (degrees Rømer)",
+						"title" : "512.43 °Rø  (degrees Rømer)",
+						"width" : 183,
+						"height" : 18
+					},
+					"plaintext" : "512.43 °Rø  (degrees Rømer)"
+				}
+			]
+		},
+		{
+			"title" : "Comparisons as temperature",
+			"scanner" : "Unit",
+			"id" : "ComparisonAsTemperature",
+			"position" : 400,
+			"error" : false,
+			"numsubpods" : 2,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP42331bbbidi5e9a3e0ed000059f195ede11b5d52?MSPStoreType=image\/gif&s=14",
+						"alt" : "338.2 °C below to 261.8 °C above typical temperature of magma (700 to 1300 °C)",
+						"title" : "338.2 °C below to 261.8 °C above typical temperature of magma (700 to 1300 °C)",
+						"width" : 503,
+						"height" : 18
+					},
+					"plaintext" : "338.2 °C below to 261.8 °C above typical temperature of magma (700 to 1300 °C)"
+				},
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP42341bbbidi5e9a3e0ed00001fdd2e30093f6h66?MSPStoreType=image\/gif&s=14",
+						"alt" : "60 °C above large log fire temperature (1170 K)",
+						"title" : "60 °C above large log fire temperature (1170 K)",
+						"width" : 289,
+						"height" : 18
+					},
+					"plaintext" : "60 °C above large log fire temperature (1170 K)"
+				}
+			]
+		},
+		{
+			"title" : "Blackbody information",
+			"scanner" : "UnitInformation",
+			"id" : "BlackbodyInformation:QuantityData",
+			"position" : 500,
+			"error" : false,
+			"numsubpods" : 1,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP42351bbbidi5e9a3e0ed00003a8524cf0bc32a66?MSPStoreType=image\/gif&s=14",
+						"alt" : " \nperceived color | \npeak wavelength | 2.3465 µm  (micrometers)\npeak frequency | 72.601 THz  (terahertz)",
+						"title" : " \nperceived color | \npeak wavelength | 2.3465 µm  (micrometers)\npeak frequency | 72.601 THz  (terahertz)",
+						"width" : 431,
+						"height" : 258
+					},
+					"plaintext" : " \nperceived color | \npeak wavelength | 2.3465 µm  (micrometers)\npeak frequency | 72.601 THz  (terahertz)"
+				}
+			]
+		},
+		{
+			"title" : "Corresponding quantities",
+			"scanner" : "Unit",
+			"id" : "CorrespondingQuantity",
+			"position" : 600,
+			"error" : false,
+			"numsubpods" : 3,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP42361bbbidi5e9a3e0ed00003dd9gg728a3fg924?MSPStoreType=image\/gif&s=14",
+						"alt" : "Thermodynamic energy E from E = kT:\n | 11 ceV  (centielectronvolts)",
+						"title" : "Thermodynamic energy E from E = kT:\n | 11 ceV  (centielectronvolts)",
+						"width" : 261,
+						"height" : 41
+					},
+					"plaintext" : "Thermodynamic energy E from E = kT:\n | 11 ceV  (centielectronvolts)"
+				},
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP42371bbbidi5e9a3e0ed000033f089f89ai4dbbh?MSPStoreType=image\/gif&s=14",
+						"alt" : "Blackbody energy flux Phi from Phi = sigmaT^4:\n | 131880 W\/m^2  (watts per square meter)",
+						"title" : "Blackbody energy flux Phi from Phi = sigmaT^4:\n | 131880 W\/m^2  (watts per square meter)",
+						"width" : 270,
+						"height" : 43
+					},
+					"plaintext" : "Blackbody energy flux Phi from Phi = sigmaT^4:\n | 131880 W\/m^2  (watts per square meter)"
+				},
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP42381bbbidi5e9a3e0ed00001cehg7d1a6558b5c?MSPStoreType=image\/gif&s=14",
+						"alt" : "Approximate luminous exitance from a planar blackbody radiator perpendicular to its surface:\n | 769 lx  (lux)",
+						"title" : "Approximate luminous exitance from a planar blackbody radiator perpendicular to its surface:\n | 769 lx  (lux)",
+						"width" : 528,
+						"height" : 60
+					},
+					"plaintext" : "Approximate luminous exitance from a planar blackbody radiator perpendicular to its surface:\n | 769 lx  (lux)"
+				}
+			]
+		},
+		{
+			"title" : "Thermodynamic properties",
+			"scanner" : "Data",
+			"id" : "Thermodynamics:ElementData",
+			"position" : 700,
+			"error" : false,
+			"numsubpods" : 1,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP42391bbbidi5e9a3e0ed00004eg6e322i1654517?MSPStoreType=image\/gif&s=14",
+						"alt" : "phase at STP | solid\nmelting point | 961.78 °C  (rank: 49th)\nboiling point | 2162 °C  (rank: 51st)\n(properties at standard conditions)",
+						"title" : "phase at STP | solid\nmelting point | 961.78 °C  (rank: 49th)\nboiling point | 2162 °C  (rank: 51st)\n(properties at standard conditions)",
+						"width" : 271,
+						"height" : 121
+					},
+					"plaintext" : "phase at STP | solid\nmelting point | 961.78 °C  (rank: 49th)\nboiling point | 2162 °C  (rank: 51st)\n(properties at standard conditions)"
+				}
+			],
+			"states" : [
+				{
+					"name" : "More",
+					"input" : "Thermodynamics:ElementData__More"
+				},
+				{
+					"name" : "Use Fahrenheit",
+					"input" : "Thermodynamics:ElementData__Use Fahrenheit"
+				}
+			]
+		}
+	],
+	"sources" : {
+		"url" : "http:\/\/www.wolframalpha.com\/sources\/ElementDataSourceInformationNotes.html",
+		"text" : "Element data"
+	}
+}}

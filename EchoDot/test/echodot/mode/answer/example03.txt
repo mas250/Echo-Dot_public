@@ -1,0 +1,62 @@
+{"queryresult" : {
+	"success" : true,
+	"error" : false,
+	"numpods" : 2,
+	"datatypes" : "",
+	"timedout" : "",
+	"timedoutpods" : "",
+	"timing" : 0.676,
+	"parsetiming" : 0.231,
+	"parsetimedout" : false,
+	"recalculate" : "",
+	"id" : "MSPa1650221f60fe4852ba2i00002bhhc618ie8i233g",
+	"host" : "http:\/\/www5a.wolframalpha.com",
+	"server" : "20",
+	"related" : "http:\/\/www5a.wolframalpha.com\/api\/v2\/relatedQueries.jsp?id=MSPa1651221f60fe4852ba2i00005aa54f2he1dc0c734308180692449431136",
+	"version" : "2.6",
+	"pods" : [
+		{
+			"title" : "Input interpretation",
+			"scanner" : "Identity",
+			"id" : "Input",
+			"position" : 100,
+			"error" : false,
+			"numsubpods" : 1,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP1652221f60fe4852ba2i00001fi5515cci6b2867?MSPStoreType=image\/gif&s=20",
+						"alt" : "Does Santa Claus exist?",
+						"title" : "Does Santa Claus exist?",
+						"width" : 154,
+						"height" : 18
+					},
+					"plaintext" : "Does Santa Claus exist?"
+				}
+			]
+		},
+		{
+			"title" : "Result",
+			"scanner" : "Data",
+			"id" : "Result",
+			"position" : 200,
+			"error" : false,
+			"numsubpods" : 1,
+			"primary" : true,
+			"subpods" : [
+				{
+					"title" : "",
+					"img" : {
+						"src" : "http:\/\/www5a.wolframalpha.com\/Calculate\/MSP\/MSP1653221f60fe4852ba2i00004hfcc852ah46c2gd?MSPStoreType=image\/gif&s=20",
+						"alt" : "There is not a unique computable answer to that question.  Possible answers include:\n\t\t\t\na) Santa Claus is as real as you wish him to be; if you believe in Santa, then he is real.\n\t\t\t\nb) Saint Nicholas is the common name for the real person Nicholas of Myra, a saint and historical Bishop of Myra.\n\t\t\t\nc) Santa gives gifts to children, therefore he is.\n",
+						"title" : "There is not a unique computable answer to that question.  Possible answers include:\n\t\t\t\na) Santa Claus is as real as you wish him to be; if you believe in Santa, then he is real.\n\t\t\t\nb) Saint Nicholas is the common name for the real person Nicholas of Myra, a saint and historical Bishop of Myra.\n\t\t\t\nc) Santa gives gifts to children, therefore he is.\n",
+						"width" : 526,
+						"height" : 209
+					},
+					"plaintext" : "There is not a unique computable answer to that question.  Possible answers include:\n\t\t\t\na) Santa Claus is as real as you wish him to be; if you believe in Santa, then he is real.\n\t\t\t\nb) Saint Nicholas is the common name for the real person Nicholas of Myra, a saint and historical Bishop of Myra.\n\t\t\t\nc) Santa gives gifts to children, therefore he is.\n"
+				}
+			]
+		}
+	]
+}}
